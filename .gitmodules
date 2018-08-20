@@ -1,0 +1,3 @@
+[submodule "deck-of-cards-java"]
+	path = deck-of-cards-java
+	url = ssh://git@github.com/ridde037/deck-of-cards-java.git
